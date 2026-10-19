@@ -1,1 +1,1 @@
-# shipping-calculator
+# LogisticsShippingRates
